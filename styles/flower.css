@@ -326,15 +326,16 @@ body{
     .img-cardo img{
         max-width: 361px;
         width:100%;
+      
     }
     .img-cards{
         grid-template-columns: repeat(1,1fr);
-    }
-    .section-3-container{
-        max-width: 367px;
-        width: 100%;
         text-align: center;
     }
+    .section-3-container{
+        text-align: center;
+    }
+
     .img-card{
         margin-right: 0px;
     }
