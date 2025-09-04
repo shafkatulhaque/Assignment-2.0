@@ -163,7 +163,8 @@
         width: 100%;
     }
     .btn-primary{
-        padding: 19px 30px;
+        padding: 19px 30px;'
+        /* width: 171px; */
     }
 }
 
@@ -430,7 +431,7 @@ input{
        
     }
     .btn-primary{
-        width:103px;
+        /* width:103px; */
     }
 }
 
