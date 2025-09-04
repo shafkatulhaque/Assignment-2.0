@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 /* noto-serif-font */
 
 .noto-serif-font {
@@ -433,6 +435,7 @@ input{
     .btn-primary{
         /* width:103px; */
     }
+    
 }
 
 /* footer */
@@ -468,16 +471,12 @@ footer{
     .footer-div{
         flex-direction: column;
         gap: 0px;
+        padding: 20px;
     }
     .div-last{
         position: relative;
         top: 5px;
     }
-    /* footer{
-        width: 100%;
-        margin: 0 auto;
-        max-width: 393px;
-    } */
     
 }
 
